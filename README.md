@@ -1,2 +1,2 @@
-# JetOnMars
-lkn
+# jetonmars
+tokyo_boston_mixed
