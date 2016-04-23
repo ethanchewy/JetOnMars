@@ -80,6 +80,7 @@
 -define:UNITY_EDITOR_OSX
 'Assets/Scripts/Distance.cs'
 'Assets/Scripts/Speed.cs'
+'Assets/Scripts/WindEffect.cs'
 'Assets/Scripts/gyro.cs'
 'Assets/Scripts/playermove.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'

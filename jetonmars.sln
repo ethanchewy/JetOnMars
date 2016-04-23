@@ -1,9 +1,9 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{26D00DAB-1BCE-06C9-D4AA-94C401EEAC10}") = "jetonmars", "Assembly-CSharp-firstpass.csproj", "{4902AC7E-970A-B6DA-DB85-F8EFD59C2E27}"
+Project("{5BDCDC3E-FE77-A818-B0CB-6BDE0B8BA054}") = "JetOnMars", "Assembly-CSharp-firstpass.csproj", "{4640F077-3B63-3DCA-414B-9084C44429E8}"
 EndProject
-Project("{26D00DAB-1BCE-06C9-D4AA-94C401EEAC10}") = "jetonmars", "Assembly-CSharp.csproj", "{2AC658D9-7635-C9D0-0818-651D508ABA21}"
+Project("{5BDCDC3E-FE77-A818-B0CB-6BDE0B8BA054}") = "JetOnMars", "Assembly-CSharp.csproj", "{5EA9E3CD-307C-8E4D-E93F-0448465458B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4902AC7E-970A-B6DA-DB85-F8EFD59C2E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4902AC7E-970A-B6DA-DB85-F8EFD59C2E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4902AC7E-970A-B6DA-DB85-F8EFD59C2E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4902AC7E-970A-B6DA-DB85-F8EFD59C2E27}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2AC658D9-7635-C9D0-0818-651D508ABA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2AC658D9-7635-C9D0-0818-651D508ABA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2AC658D9-7635-C9D0-0818-651D508ABA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2AC658D9-7635-C9D0-0818-651D508ABA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4640F077-3B63-3DCA-414B-9084C44429E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4640F077-3B63-3DCA-414B-9084C44429E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4640F077-3B63-3DCA-414B-9084C44429E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4640F077-3B63-3DCA-414B-9084C44429E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA9E3CD-307C-8E4D-E93F-0448465458B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA9E3CD-307C-8E4D-E93F-0448465458B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA9E3CD-307C-8E4D-E93F-0448465458B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA9E3CD-307C-8E4D-E93F-0448465458B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
