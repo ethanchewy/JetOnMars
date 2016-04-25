@@ -17,3 +17,7 @@
 /Users/ethanc/Downloads/jetonmars-master/Temp/bin/Debug/Assembly-CSharp.dll
 /Users/ethanc/Downloads/jetonmars-master/obj/Debug/Assembly-CSharp.dll
 /Users/ethanc/Downloads/jetonmars-master/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/ethanc/JetOnMars/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/ethanc/JetOnMars/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/ethanc/JetOnMars/obj/Debug/Assembly-CSharp.dll
+/Users/ethanc/JetOnMars/obj/Debug/Assembly-CSharp.dll.mdb

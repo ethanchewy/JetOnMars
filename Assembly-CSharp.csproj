@@ -45,7 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\AutoIntensity.cs" />
      <Compile Include="Assets\Scripts\Distance.cs" />
+     <Compile Include="Assets\Scripts\SetSunLight.cs" />
      <Compile Include="Assets\Scripts\Speed.cs" />
      <Compile Include="Assets\Scripts\gyro.cs" />
      <Compile Include="Assets\Scripts\playermove.cs" />
